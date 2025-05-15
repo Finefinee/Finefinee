@@ -2,7 +2,7 @@
 - 🔭 현재 대구소프트웨어마이스터고등학교 재학
 - 🌱 백엔드 개발자가 되기 위해 학습중
 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=cprogramminglanguage&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
