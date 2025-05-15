@@ -3,8 +3,10 @@
 - 🌱 백엔드 개발자가 되기 위해 학습중
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ![Learning Spring Boot](https://img.shields.io/badge/Learning-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
