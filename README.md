@@ -2,6 +2,10 @@
 - 🔭 현재 대구소프트웨어마이스터고등학교 재학
 - 🌱 백엔드 개발자가 되기 위해 학습중
 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+
+
 
 <!--
 **Finefinee/Finefinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
