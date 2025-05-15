@@ -3,7 +3,7 @@
 - 🌱 백엔드 개발자가 되기 위해 학습중
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Learning Spring Boot](https://img.shields.io/badge/Learning-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
 
 
