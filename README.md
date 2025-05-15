@@ -13,7 +13,6 @@
 
 ## 🔨 현재 학습 중
 ![Spring Boot](https://img.shields.io/badge/Learning-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
 
 ## ✨ About Me
 - 🧠 똑디
