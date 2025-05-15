@@ -2,10 +2,10 @@
 - 🔭 현재 대구소프트웨어마이스터고등학교 재학
 - 🌱 백엔드 개발자가 되기 위해 학습중
 
-![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1-brightgreen?logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?logo=mysql)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
+![Java](https://img.shields.io/badge/Java-17-444444?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1-444444?logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-444444?logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-444444?logo=visualstudiocode&logoColor=white)
 
 <!--
 **Finefinee/Finefinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
