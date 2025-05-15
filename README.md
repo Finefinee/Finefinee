@@ -1,4 +1,4 @@
-## 👋 안녕하세요! 여노여노입니다
+### 👋 안녕하세요!
 
 현재 **대구소프트웨어마이스터고등학교**에 재학 중이며,  
 🌱 **백엔드 개발자**를 꿈꾸며 열심히 공부하고 있습니다.
@@ -20,7 +20,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/Learning-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
-## ✨ About Me
+### ✨ About Me
 
 ---
 
