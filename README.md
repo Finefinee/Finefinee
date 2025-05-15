@@ -1,4 +1,6 @@
 ## 안녕하세요 👋
+- 🔭 현재 대구소프트웨어마이스터고등학교 재학중
+- 🌱 백엔드 개발자가 되기 위해 학습중
 
 <!--
 **Finefinee/Finefinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
