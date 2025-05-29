@@ -17,3 +17,5 @@
 ## ✨ About Me
 - 🧠 똑디
 - 💡 똑디
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact&theme=tokyonight)
