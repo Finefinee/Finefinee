@@ -10,9 +10,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
 ## 🔨 현재 학습 중
-![Spring Boot](https://img.shields.io/badge/Learning-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
 ## ✨ About Me
 - 🧠 똑디
