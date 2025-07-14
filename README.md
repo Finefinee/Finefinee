@@ -12,12 +12,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
-## 🔨 현재 학습 중
-
-## ✨ About Me
-- 🧠 똑디
-- 💡 똑디
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finefinee&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact&theme=tokyonight)
