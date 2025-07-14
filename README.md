@@ -19,6 +19,8 @@
 - 💡 똑디
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finefinee&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact)
+
 
 
