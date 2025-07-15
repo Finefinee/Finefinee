@@ -12,9 +12,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finefinee&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finefinee&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact&theme=tokyonight)
 
 
 
