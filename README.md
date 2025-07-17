@@ -15,6 +15,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finefinee&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Finefinee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
