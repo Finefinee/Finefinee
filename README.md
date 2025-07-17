@@ -3,7 +3,7 @@
 현재 **대구소프트웨어마이스터고등학교**에 재학 중이며,  
 🌱 **백엔드 개발자**를 꿈꾸며 열심히 공부하고 있습니다.
 
-## 🔷 사용 중인 언어 & 도구
+## 🔷 Tech
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -12,6 +12,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Finefinee&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact&theme=tokyonight" alt="Top Langs"/>
