@@ -12,10 +12,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finefinee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact&theme=tokyonight)
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Finefinee&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finefinee&layout=compact&theme=tokyonight)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Finefinee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Finefinee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 
