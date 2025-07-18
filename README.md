@@ -3,7 +3,7 @@
 현재 **대구소프트웨어마이스터고등학교**에 재학 중이며,  
 🌱 **백엔드 개발자**를 꿈꾸며 열심히 공부하고 있습니다.
 
-## 🔷 Tech
+## 🔷 Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
